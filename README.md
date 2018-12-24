@@ -9,6 +9,7 @@ Example of the video tutorial of "Part 1 UI/UX in Xamarin from 0 - SplashScreen"
 
 - Create different types of Splash Screen made with Adobe XD to export it in Xamarin. Forms.
 - I shared my method called Splash Screen Adaptable.
+- The interface designs are in the "XD Project" folder.
 
 Watch this video for more details:
 <a href="https://www.youtube.com/watch?v=vPKXH6I_gXE&t=">https://www.youtube.com/watch?v=vPKXH6I_gXE&t=</a>
