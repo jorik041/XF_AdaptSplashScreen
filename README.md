@@ -1,5 +1,5 @@
 # XF_AdaptSplashScreen
-[![Open Source Love png1](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](#Open-Source-Love) [![Build status](https://ci.appveyor.com/api/projects/status/tstob334hqro4gm9?svg=true)](https://ci.appveyor.com/project/monetelli/xf-adaptsplashscreen) [![licence](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](https://github.com/monetelli/XF_AdaptSplashScreen/blob/master/LICENSE.md)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](#Open-Source-Love) [![Build status](https://ci.appveyor.com/api/projects/status/tstob334hqro4gm9?svg=true)](https://ci.appveyor.com/project/monetelli/xf-adaptsplashscreen) [![licence](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](https://github.com/monetelli/XF_AdaptSplashScreen/blob/master/LICENSE.md)
 
 ## Description
 
